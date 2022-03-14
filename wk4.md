@@ -6,15 +6,11 @@ Why does flow separation
 occur at sharp edges?
 
 
-The tangential
-component of the acceleration vector of the fluid particles cannot be infinite.
+- [ ] The tangential component of the acceleration vector of the fluid particles cannot be infinite.
 
 
 The normal component
 of the acceleration vector of the fluid particles cannot be infinite.
-
-
-
 
 
 The derivative of the
@@ -35,7 +31,7 @@ Which statement is correct? The Venturi effect applies to:
 Flows between buildings in diverging arrangement
 
 
-Flows in passages through parallel buildings
+- [ ] Flows in passages through parallel buildings
 
 
 Flows that are not open flows
@@ -51,7 +47,7 @@ A 7 m/s wind speed at pedestrian level corresponds to:
 
 0 / 10 points
 
-3 Beaufort
+- [ ] 3 Beaufort
 
 
 1 Beaufort
@@ -78,7 +74,7 @@ Validation of the simulation approach for components of the actual computational
 Validation of the simulation approach for geometrical components of the actual geometrical configuration
 
 
-Validation of the simulation approach for components of the actual turbulence modeling approach
+- [ ] Validation of the simulation approach for components of the actual turbulence modeling approach
 
 Validation of the simulation approach for components of the actual approximate form of the governing equations
 
@@ -91,16 +87,11 @@ What is a typical wind discomfort percentage (= probability of exceedance of a t
 
 100%
 
-
-
-10%
-
+- [ ] 10%
 
 5%
 
-
 1%
-
 
 50%
 
@@ -133,7 +124,7 @@ Which is a correct unit for the wind-driven rain intensity on a building facade?
 
 0 / 10 points
 
-kg/m²
+- [ ] kg/m²
 
 l/s
 
@@ -149,7 +140,7 @@ The wind-blocking effect is an important effect that determines how much wind-dr
 
 Subsonic upstream disturbance due to the presence of the building
 
-Blockage of the wind-flow pattern upstream of the building by obstacles such as trees
+- [ ] Blockage of the wind-flow pattern upstream of the building by obstacles such as trees
 
 Blockage of the wind-flow pattern by the presence of raindrops
 
@@ -178,7 +169,7 @@ How large is the typical amplification of wind speed that you can achieve with a
 
 50%
 
-15%
+- [ ] 15%
 
 Incorrect
 10.
@@ -189,7 +180,7 @@ By rotating the actual (current) design of the Bahrain World Trade Center over 1
 
 The fact that the wind is channeled in the passage to be almost parallel to the wind turbine axes.
 
-The fact that the prevaling wind direction is almost parallel to the wind turbine axes.
+- [ ] The fact that the prevaling wind direction is almost parallel to the wind turbine axes.
 
 The fact that the towers have a triangular sail-like shape.
 
