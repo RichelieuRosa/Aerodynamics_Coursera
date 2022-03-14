@@ -12,6 +12,7 @@ occur at sharp edges?
 The normal component
 of the acceleration vector of the fluid particles cannot be infinite.
 
+- [x] The derivative of the velocity vector cannot be infinite.
 
 The derivative of the
 velocity vector cannot be zero.
@@ -34,7 +35,7 @@ Flows between buildings in diverging arrangement
 - [ ] Flows in passages through parallel buildings
 
 
-Flows that are not open flows
+- [x] Flows that are not open flows
 
 
 Open flows
@@ -57,7 +58,7 @@ A 7 m/s wind speed at pedestrian level corresponds to:
 2 Beaufort
 
 6 Beaufort
-4 Beaufort
+- [ ] 4 Beaufort
 7 Beaufort
 
 
@@ -76,7 +77,7 @@ Validation of the simulation approach for geometrical components of the actual g
 
 - [ ] Validation of the simulation approach for components of the actual turbulence modeling approach
 
-Validation of the simulation approach for components of the actual approximate form of the governing equations
+- [ ]Validation of the simulation approach for components of the actual approximate form of the governing equations
 
 Incorrect
 5.
@@ -89,7 +90,7 @@ What is a typical wind discomfort percentage (= probability of exceedance of a t
 
 - [ ] 10%
 
-5%
+- [ ] 5%
 
 1%
 
@@ -125,10 +126,11 @@ Which is a correct unit for the wind-driven rain intensity on a building facade?
 0 / 10 points
 
 - [ ] kg/m²
+- [x] kg/m2s
 
 l/s
 
-mm/m²h
+- [ ] mm/m²h
 
 mm/h
 Incorrect
@@ -144,7 +146,7 @@ Subsonic upstream disturbance due to the presence of the building
 
 Blockage of the wind-flow pattern by the presence of raindrops
 
-Reduction of wind
+- [ ] Reduction of wind
 speed in the wake of the building
 
 
@@ -163,7 +165,7 @@ How large is the typical amplification of wind speed that you can achieve with a
 
 0 / 10 points
 
-5%
+- [ ] 5%
 
 100%
 
@@ -184,6 +186,6 @@ The fact that the wind is channeled in the passage to be almost parallel to the 
 
 The fact that the towers have a triangular sail-like shape.
 
-The fact that wind speed is increased to a larger extent in a diverging than in a converging arrangement.
+- [x] The fact that wind speed is increased to a larger extent in a diverging than in a converging arrangement.
 
 Incorrect
