@@ -113,7 +113,7 @@ Which of these four items is the most important problem for natural ventilation 
 
 Solution verification is imperative
 
-Urban surroundings need to be included and as a result the scaling factors become too large and the reduced-scale ventilation openings too small to allow similarity.
+- [x] Urban surroundings need to be included and as a result the scaling factors become too large and the reduced-scale ventilation openings too small to allow similarity.
 
 Uncontrollable boundary conditions
 
